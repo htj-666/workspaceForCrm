@@ -3,7 +3,7 @@ package com.bjpowernode.crm.vo;
 import java.util.List;
 
 /**
- * Author 北京动力节点
+ * Author 黄添俊牛逼
  */
 public class PaginationVO<T> {
 
