@@ -3,7 +3,7 @@ package com.bjpowernode.crm.vo;
 import java.util.List;
 
 /**
- * Author 黄
+ * Author 黄添
  */
 public class PaginationVO<T> {
 
